@@ -1,0 +1,1 @@
+# plugin-loterias-caixa-cnn
