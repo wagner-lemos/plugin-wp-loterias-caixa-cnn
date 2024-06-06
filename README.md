@@ -1,6 +1,6 @@
 ### Plugin Wordpress Loterias Caixa - CNN
 
-Plugin Wordpress desenvolvimdo para o portal CNN, que tem como objetivo consultar todas as loterias da caixa, e ter como retorno os resultados.
+Plugin Wordpress desenvolvido para o portal CNN, tem como objetivo consultar todas as loterias da caixa, e ter como retorno os resultados.
 
 #### Funcionalidades
 ```
